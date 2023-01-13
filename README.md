@@ -6,7 +6,7 @@
 <code>📢 [Public talks: 0](TALKS.md)</code>
 <code>👀 [Open-source contribution](CONTRIBUTION.md)</code><br>
 <code>🧑‍💻 Languages: JavaScript, Python</code>
-<code>📦 Tech stack: node.js</code>
+<code>📦 Tech stack: node.js, express.js, HTML, CSS, EJS</code>
 <code>🪙 [Rates](RATES.md)</code><br>
 <code>💬 telegram: [@glaudsgladus](https://telegram.me/gladusgladus)</code>
 <code>📫 [kornoleg576@gmail.com](mailto:kornoleg576@gmail.com)</code>
